@@ -4,7 +4,7 @@
 </body>
  <body>
   <div class="search">
-   <form action="http://www.IND.videos.com/search.php">
+   <form action="https://github.com/becceb23/.IND.videos.com/edit/master/.gitignore/IND/search.php">
     <input type="text" name="search" placeholder="Enter a video..."/>
    <input type="submit" value="search here"/>
   </form>
